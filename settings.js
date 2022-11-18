@@ -30,7 +30,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+94711469997'] // owner number
-global.ownername = "°|👅̶"noti_sudda°|👅̶"⃮" // owner name
+global.ownername = "𝐍oti 𝐒udda" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -51,7 +51,7 @@ global.owner = ['+94711469997']
 global.ownertag = '+94711469997' //your tag number
 global.botname = '𝐍oti 𝐒udda-Bot' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "𝐍oti 𝐒udda" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
